@@ -1,0 +1,12 @@
+h1 {
+    color:aqua;
+}
+.header{
+   
+    display: flex;
+    justify-content: space-evenly;
+}
+body{
+    background: url(images.png)no-repeat center center fixed;
+    background-size: cover;
+}
